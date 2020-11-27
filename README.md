@@ -1,3 +1,3 @@
 # PyQtHMI
 Build HMI for Automatic control by PyQt. Link with PLC with ua client to server.
-$y=x^2$
+`$y=x^2$`
